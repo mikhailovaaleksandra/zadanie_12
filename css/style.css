@@ -1,0 +1,34 @@
+body{
+    background: url(../image/triangulation-art-backgrpund-for-banner-template-free-vector.jpg) repeat-y 100%;
+}
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.blue{
+    color: darkblue;
+}
+
+.over{
+    color: aquamarine;
+    text-decoration: overline orange;
+}
+
+.tboarder{
+    border-top: 30px solid red;
+    border-right: dashed 20px firebrick;
+    border-bottom: inset violet 20px;
+    border-left: gold dotted 10px;
+}
+
+.ol{
+    list-style: lower-greek;
+}
+
+.ul{
+    list-style: square;
+}
